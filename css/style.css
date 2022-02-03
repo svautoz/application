@@ -1,0 +1,13 @@
+h2 { color: red; }
+
+.green-text {
+    color: green;
+    background-color: coral;
+}
+
+.card {
+    background-color: #c3c3c3;
+    border: 1px double #000;
+    width: 300px;
+    height: 300px;
+}
